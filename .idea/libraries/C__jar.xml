@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="C:.jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../GestionDuBank/src" />
+      <root url="file://$PROJECT_DIR$/../OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/ACT09 POO/src" />
+      <root url="file://$PROJECT_DIR$/../OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique/Desktop/JAVA POO/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/ACT13_execption/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/Les_exceptions/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/RunTimeException/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/Scanner/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/TP_10_Interface/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/TP_HERITAGE/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/TP_Illustration_Classes_Abstraites/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/TP_illustration_héritage/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/TestRéseau/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/Travaux_Pratique9/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/exception/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/magasin/src" />
+      <root url="file://$PROJECT_DIR$/../eclipse-workspace/test_io/src" />
+      <root url="file://$PROJECT_DIR$/../../../xampp/tomcat/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../../xampp/tomcat/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>
